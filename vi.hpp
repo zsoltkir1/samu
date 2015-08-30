@@ -136,12 +136,7 @@ public:
 
 #ifndef Q_LOOKUP_TABLE
 
-    std::cout << "\n<<< @@@ " << triplets[0] << std::endl;
-    
-    std::cout << "<<< @@@ ennek kell lenni a kov blokk elsojenek: ";
     std::cout << ql ( triplets[0], prg, img_input ) << std::endl;
-    
-    std::cout << "@@@ >>>";
 
 #else
 
