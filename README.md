@@ -3,7 +3,6 @@ One of the purpose of this project is to allow the evaluation and verification o
 **"A disembodied developmental robotic agent called Samu Bátfai"**. 
 This paper presents Q learning with neural networks approximators used by Samu. It is our hope and goal that Samu 
 will be the ancestor of developmental robotics chatter bots that will be able to talk and read in natural language like humans do.
-At this moment Samu is the generic name of rapid prototypes that facilitate achieving this goal.
 
 ## Highlights of Samu
 
